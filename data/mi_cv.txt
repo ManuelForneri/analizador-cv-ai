@@ -1,0 +1,54 @@
+MANUEL FORNERI
+Full Stack Developer
+📍San Andrés de Giles, Buenos Aires | Remotegithub.com/ManuelForneri
+📧 manuelforneri@gmail.com · 🔗 linkedin.com/in/manuelforneri ·🐙
+PROFILE
+Experienced Full Stack Developer specializing in JavaScript/TypeScript (Node.js/NestJS, React.js). Proven ability to
+build and maintain production web applications, focused on clean, maintainable code and effective remote team
+collaboration.
+EXPERIENCE
+Full Stack Developer — Kiura (Remote) | Jul 2023 – Mar 2026​
+Tech stack: JavaScript · TypeScript · Node.js · React.js · NestJS · Redux.js · AWS · Jest · PostgreSQL · SQL ·
+Tailwind CSS · REST APIs · GitHub · Git · Docker · CSS3 · HTML
+●​ Architected and deployed scalable microservices on AWS using NestJS and Clean Architecture.
+●​ Optimized PostgreSQL database performance with efficient indexing and complex SQL, improving query
+response times by 30%.
+●​ Standardized development and deployment via Docker, minimizing environment discrepancies.
+●​ Developed high-performance UIs with React.js, focusing on reusable components and rendering optimization.
+●​ Enforced code quality standards through rigorous code reviews and GitHub Pull Requests.
+Full Stack Developer — Minimercado Chacabuco | Mar 2021 – Jul 2023​
+Tech stack: JavaScript · TypeScript · Node.js · React.js · Express.js · Redux.js · REST APIs · Firebase · MongoDB ·
+Tailwind CSS · Handlebars.js · Mongoose · Git · GitHub · CSS3 · HTML
+●​ Architected and deployed a comprehensive full-stack platform leveraging React.js for the frontend and
+Node.js for the backend infrastructure.
+●​ Designed and implemented secure RESTful APIs utilizing Express.js, incorporating JWT and Role-Based
+Access Control (RBAC) for authentication and authorization.
+●​ Executed a strategic system migration to a microservices architecture, adhering to Clean Architecture
+principles to significantly enhance system scalability.
+●​ Enhanced the performance of the administrative dashboard by integrating Redux, resulting in a documented
+40% reduction in data load times.
+●​ Liaised with key stakeholders to successfully deliver a responsive, mobile-first solution, employing Tailwind
+CSS for streamlined styling
+EDUCATION
+Bachelor's in Computer Science ​
+​
+Diploma in Multi-platform Programming ​ ​
+Bachelor of Science in Information Systems ​
+​
+​
+​
+​
+​
+​
+​
+UNSADA | Aug 2025 – Dec 2029 (Expected)​
+UNSADA | Mar 2025 – Nov 2025
+​
+UNLU | Mar 2018 – Nov 2021 (Incomplete)
+LANGUAGES
+Spanish: Native · English: B2
+SKILLS
+Technical: JavaScript, TypeScript, Node.js, React.js, NestJS, Express.js, PostgreSQL, MongoDB, SQL, REST APIs,
+Redux, Tailwind CSS, Microservices, Clean Architecture.
+Tools & Platforms: AWS, Docker, Git, GitHub.
+Soft Skills: Problem Solving, Ownership, Teamwork, Communication, Code Quality.

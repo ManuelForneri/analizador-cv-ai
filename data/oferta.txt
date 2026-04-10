@@ -1,0 +1,31 @@
+🚀 International Opportunity: Full-stack Engineer - React.js, PostgreSQL
+🌎 Remote, with top US companies
+💲 Salary: 2.8k-3.8k USD/month
+🗣 English: B2
+
+🎯 Must-haves:
+• 5+ years of software development experience
+• 3+ years of React.js experience
+• 3+ years of Node.js experience
+• Experience with HTML, CSS
+• Experience with SQL, PostgreSQL
+• Proficiency with full-stack web development and UI implementation
+• Ability to translate Figma designs into pixel-perfect interfaces
+• Ability to explain and defend technical implementation decisions
+• Based in Brazil, Argentina, Paraguay, Colombia, Costa Rica, Peru, Chile, and Mexico
+• Strong communication skills in both spoken and written English
+
+💡 Nice-to-haves:
+• Startup experience
+• Familiarity with AWS infrastructure
+• Experience with LLM integration and prompt engineering (OpenAI, Claude)
+• Understanding of ORM usage with SQLite
+• Bachelor's Degree in Computer Engineering, Computer Science, or equivalent
+
+🔍 About the project:
+• Develop cutting-edge features for an AI-powered platform, leveraging React.js, Node.js, and PostgreSQL. You’ll be responsible for the entire feature lifecycle, from implementation to release, ensuring high code quality and seamless user experiences. Collaborate closely with product and engineering teams to deliver impactful solutions.
+
+🦩 Interested?
+Complete your application using the link in the comment 👇🏼
+
+hashtag#TechJobs hashtag#RemoteWork hashtag#RemoteJobs hashtag#NowHiring hashtag#WorkFromHome hashtag#JobOpportunity hashtag#CareerGrowth hashtag#WorkAbroad hashtag#Hiring hashtag#Recruitment hashtag#JobSearch hashtag#GlobalOpportunities hashtag#WorkInTech
