@@ -1,11 +1,11 @@
 services:
-  ollama:
-    image: ollama/ollama
-    container_name: ollama_service
-    ports:
-      - "11434:11434"
+  app:
+    build: .
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     volumes:
-      - ollama_data:/root/.ollama
-
-volumes:
-  ollama_data:
+      - .:/app
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    command: python src/analizador.py
