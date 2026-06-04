@@ -43,3 +43,4 @@ def analizar_cv_local():
 
 if __name__ == "__main__":
     analizar_cv_local()
+    
